@@ -1,0 +1,14 @@
+body{
+    position: absolute;
+    background-image: url("imagens/fundo-madeira.jpg");
+   
+}
+iframe{
+    position: relative;
+    width: 300px;
+    height: 700px;
+    background-position: center center;
+}    
+.cel{
+background-image: url("imagens/tela-home.jpg");
+}
